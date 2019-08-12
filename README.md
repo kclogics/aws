@@ -4,5 +4,5 @@
 >>> https://aws.amazon.com/cli/
 
 + aws --version
->>> troubleshhot try restrat
+>>> troubleshoot try restart
 
