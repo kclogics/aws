@@ -37,7 +37,10 @@
     - VPC Dashboard > Launch VPC Wizard
     - Your VPC > Route Table > Routes > Add Route
  
-    
+ + Elastic Cloud Compute ( Ec2 )
+    - AMI
+    - Elastic Block Store : Independent storage volumes used with Ec2 instances
+    - 
   
     
    
