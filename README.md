@@ -27,5 +27,9 @@
     - Use groups to assign permissions
     - Apply an IAM password policy
  
- + 
+ >>> policies 
+    - create new users 
+    : after (cmd: aws configure)
+    
+    
 
