@@ -20,16 +20,15 @@
 >>> create alarm
 
 + IAM
->>>
+ 
     - Delete your root access keys
     - Activate MFA on your root account
     - Create individual IAM users
     - Use groups to assign permissions
     - Apply an IAM password policy
  
- >>> policies 
-    - create new users 
-    : after (cmd: aws configure)
+    --  policies 
+    - create new users : after (cmd: aws configure)
     - create groups in IAM 
     
  >>> 
