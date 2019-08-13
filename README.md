@@ -9,4 +9,13 @@
 + Continue to security credentials
 >>> You are accessing the security credentials page for your AWS account. The account credentials provide unlimited access to your AWS resources.
 
++ CloudWatch 
+>>> Send notification via sns
+
++ Simple Notification Service
+>>> Topic: unique id
+    Create topic and subscription
+    
++ Cloudwatch alarm
+>>> 
 
