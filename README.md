@@ -30,6 +30,11 @@
  >>> policies 
     - create new users 
     : after (cmd: aws configure)
+    - create groups in IAM 
     
+ >>> 
     
+  
+    
+   
 
