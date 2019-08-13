@@ -33,7 +33,7 @@
     
     
  + Virtual Private Cloud
-    - 
+    - Security groups: like mini firewall for incoming/outgoing IP addresses
     
  
     
