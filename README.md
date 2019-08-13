@@ -27,11 +27,15 @@
     - Use groups to assign permissions
     - Apply an IAM password policy
  
-    --  policies 
+    >>>  policies 
     - create new users : after (cmd: aws configure)
     - create groups in IAM 
     
- >>> 
+    
+ + Virtual Private Cloud
+    - 
+    
+ 
     
   
     
